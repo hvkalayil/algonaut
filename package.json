@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --progress --verbose",
+    "build": "ng build --progress --verbose --base-href algonaut",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },

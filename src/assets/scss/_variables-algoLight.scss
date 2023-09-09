@@ -1,0 +1,22 @@
+[data-bs-theme="light"] {
+  .bg-glass {
+    background: rgba(0, 166, 255, 0.489);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+
+  .heroContainer {
+    background-image: url("images/heroLight.png");
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+  }
+
+  .aodContainer {
+    background: rgba(0, 166, 255, 0.61);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+}

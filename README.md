@@ -16,4 +16,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ### Github Actions
 
-The `Build Artifacts` action builds the application when a pull request is completed. It deploys the app to github pages.
+The `Build Artifacts` action builds the application when a pull request is completed. It publishes the build files to the build branch.

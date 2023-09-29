@@ -16,4 +16,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ### Github Actions
 
-The `Build Artifacts` action builds the application when a pull request is completed. It publishes the build files to the build branch.
+The `Build Artifacts` action builds the application when a pull request is completed. It publishes the build files to the build branch. Find the application [here](https://hvkalayil.github.io/algonaut/algonaut/home)
